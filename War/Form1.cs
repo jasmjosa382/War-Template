@@ -31,6 +31,11 @@ namespace War
             InitializeComponent();
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
         private void warButton_Click(object sender, EventArgs e)
         {
             //clear card back images
